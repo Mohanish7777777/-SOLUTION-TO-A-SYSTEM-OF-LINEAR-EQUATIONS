@@ -25,7 +25,7 @@ rank=np.linalg.solve(A,b)
 print(rank)
 ```
 ## Output:
-![WhatsApp Image 2023-01-03 at 2 22 21 PM](https://user-images.githubusercontent.com/111619160/210325646-7caadaae-145a-4634-86a5-568a385f87cc.jpeg)
+![OUTPUT](https://user-images.githubusercontent.com/111619160/210325646-7caadaae-145a-4634-86a5-568a385f87cc.jpeg)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
